@@ -193,9 +193,9 @@ Pull requests welcome! Please open an issue for bugs or features.
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/raviteja091)
+- **GitHub**: [(https://github.com/raviteja091](https://github.com/raviteja091)
 - **Email**: raviteja.attaluri09@gmail.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/raviteja-attaluri)
+- **LinkedIn**: [https://linkedin.com/in/raviteja-attaluri](https://linkedin.com/in/raviteja-attaluri)
 
 ---
 
