@@ -25,28 +25,6 @@ Deep learning system for identifying defects in solar panels:
 
 PyTorch | OpenCV | NumPy | Pandas | Matplotlib | CUDA
 
-## 📁 Project Structure
-
-```
-solar-defect-detection/
-├── data/processed/
-│   ├── train/        (960 images + 960 masks)
-│   └── test/         (240 images + 240 masks)
-├── src/
-│   ├── model.py      (U-Net architecture)
-│   ├── train.py      (Training loop)
-│   └── data_loader.py
-├── models/
-│   └── best_model.pth
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_training.ipynb
-│   └── 03_inference.ipynb
-└── results/
-    ├── training_curves.png
-    └── training_history.json
-```
-
 ## ⚡ Quick Start
 
 ### Install
